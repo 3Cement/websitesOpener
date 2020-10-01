@@ -1,4 +1,4 @@
-# websitesOpener - Python
+# websitesOpener -Amazing Python Project
 
 The script that automatically open websites and files you choose before. It allows user to save time if he is trying to open always the same websites.
 
